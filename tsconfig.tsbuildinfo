@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/lib/api.ts","./src/lib/auth.tsx","./src/lib/helpers.ts","./src/lib/supabase.ts","./src/pages/CreatePoll.tsx","./src/pages/Home.tsx","./src/pages/HostView.tsx","./src/pages/VoteView.tsx"],"version":"5.9.3"}
